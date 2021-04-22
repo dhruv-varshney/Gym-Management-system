@@ -1,0 +1,1 @@
+<footer class="main"><strong>Star Gym </strong></footer>
