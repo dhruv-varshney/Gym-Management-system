@@ -2,14 +2,13 @@
  “To Design and Develop the GYM MANAGEMENT SYSTEM that will automate the manual process of gym management.” 
 
 # FRONT END TOOLS:
-1. PYTHON
-2. HTML
-3. CSS
-4. JAVASCRIPT
+
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 # BACK END TOOLS:
 1. MYSQL
-2. PYTHON
 
 # Modules:
 1. A login system for the members, trainers, and admin. 
